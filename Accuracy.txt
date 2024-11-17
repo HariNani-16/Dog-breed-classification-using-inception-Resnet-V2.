@@ -1,0 +1,6 @@
+Dog Breed Classification using Deep Learning.
+
+Algorithm / Model Used: Xception Architecture.
+
+Training Accuracy:91.34%
+Test Accuracy of 89.45%.

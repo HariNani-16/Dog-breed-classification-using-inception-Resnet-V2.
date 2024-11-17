@@ -1,0 +1,10 @@
+Steps Of execution:
+Goto your project folder
+click on blank space in navigation
+type cmd and hit enter
+Type python app.py and enter
+Copy and paste the url in browser 
+In website login using admin as username and password
+upload and predict
+
+understood?
